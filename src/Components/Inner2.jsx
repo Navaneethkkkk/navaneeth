@@ -1,10 +1,10 @@
 import React from 'react'
-import Inner3 from './inner3'
+import Inner4 from './Inner4'
 
 function Inner2() {
   return (
     <>
-      <Inner3/>
+    <Inner4/>
     </>
   )
 }
